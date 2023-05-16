@@ -65,8 +65,8 @@
                             <label for="origem" class="form-label">Origem: </label>
                             <select class="form-select" name="origem" id="origem">
                                 <option value="celular">celular</option>
-                                <option value="computador">one</option>
-                                <option value="notebook">two</option>
+                                <option value="one">one</option>
+                                <option value="two">two</option>
                             </select>
                         </div>
 
