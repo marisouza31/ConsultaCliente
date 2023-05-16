@@ -69,7 +69,7 @@
         </div>
         <div class="row">
             <div class="col">
-                <h2 class="resultado__titulo">cadastro feito com sucesso</h1>
+                <h2 class="resultado__titulo">cadastro feito com sucesso!</h1>
             </div>
         </div>
     </div>
