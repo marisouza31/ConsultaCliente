@@ -72,7 +72,7 @@
                             echo "Erro ao tentar fazer a conexão com MYSQL: " . $ex->getMessage();
                         }
 
-                        $sql = "SELECT * FROM `Dados`";
+                        $sql = "SELECT * FROM `dados`";
                         $result = $pdo->query($sql);
                         $registros = $result->fetchAll();
 
